@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2010 Mia-Software.
+    All rights reserved. This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License v1.0
+    which accompanies this distribution, and is available at
+    http://www.eclipse.org/legal/epl-v10.html
+   
+    Contributors:
+       Gabriel Barbier (Mia-Software) - initial API and implementation
+ -->
+<feature
+      id="org.eclipse.modisco.java.feature"
+      label="MoDisco Java Feature (Incubation)"
+      version="0.11.2.201401201005"
+      provider-name="%providerName"
+      plugin="org.eclipse.gmt.modisco.java">
+
+   <description url="http://wiki.eclipse.org/MoDisco/Components/Java/Documentation">
+      %description
+   </description>
+
+   <copyright>
+      Copyright (c) 2008, 2009 Mia-Software.
+All rights reserved. This program and the accompanying materials
+are made available under the terms of the Eclipse Public License
+v1.0
+which accompanies this distribution, and is available at
+http://www.eclipse.org/legal/epl-v10.html
+   </copyright>
+
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.gmt.modisco.java"
+         download-size="397"
+         install-size="1128"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gmt.modisco.java.discoverer"
+         download-size="279"
+         install-size="1209"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.discoverer"
+         download-size="217"
+         install-size="1080"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.discoverer.ui"
+         download-size="38"
+         install-size="68"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gmt.modisco.java.cdo"
+         download-size="206"
+         install-size="713"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gmt.modisco.java.generation"
+         download-size="95"
+         install-size="1577"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gmt.modisco.java.queries"
+         download-size="44"
+         install-size="97"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gmt.modisco.java.browser.customization"
+         download-size="70"
+         install-size="117"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.composition"
+         download-size="55"
+         install-size="166"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.composition.ui"
+         download-size="16"
+         install-size="27"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.composition.browser.customization"
+         download-size="18"
+         install-size="32"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.composition.discoverer"
+         download-size="36"
+         install-size="77"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.composition.discoverer.ui"
+         download-size="11"
+         install-size="14"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.util.atl.core"
+         download-size="14"
+         install-size="23"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.java.doc"
+         download-size="1504"
+         install-size="1738"
+         version="0.11.2.201401201005"/>
+
+</feature>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.eclipse.modisco.java.source"
+         label="MoDisco Java Feature (Incubation) Source"
+         version="0.11.2.201401201005"
+         provider-name="%providerName"
+         plugin="org.eclipse.gmt.modisco.java">
+   <description url="http://wiki.eclipse.org/MoDisco/Components/Java/Documentation">
+      %description
+   </description>
+   <copyright>
+      Copyright (c) 2008, 2009 Mia-Software.
+All rights reserved. This program and the accompanying materials
+are made available under the terms of the Eclipse Public License
+v1.0
+which accompanies this distribution, and is available at
+http://www.eclipse.org/legal/epl-v10.html
+   </copyright>
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+      %license
+   </license>
+   <plugin id="org.eclipse.gmt.modisco.java.source" download-size="436" install-size="2376"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.gmt.modisco.java.discoverer.source" download-size="208"
+           install-size="1228"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.discoverer.source" download-size="182"
+           install-size="1136"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.discoverer.ui.source" download-size="17"
+           install-size="38"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.gmt.modisco.java.cdo.source" download-size="203" install-size="1333"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.gmt.modisco.java.generation.source" download-size="25"
+           install-size="74"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.gmt.modisco.java.queries.source" download-size="32"
+           install-size="67"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.gmt.modisco.java.browser.customization.source"
+           download-size="9"
+           install-size="13"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.composition.source" download-size="41"
+           install-size="160"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.composition.ui.source" download-size="11"
+           install-size="19"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.composition.browser.customization.source"
+           download-size="9"
+           install-size="13"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.composition.discoverer.source" download-size="26"
+           install-size="72"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.composition.discoverer.ui.source"
+           download-size="8"
+           install-size="11"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.util.atl.core.source" download-size="10"
+           install-size="20"
+           version="0.11.2.201401201005"
+           unpack="false"/>
+   <plugin id="org.eclipse.modisco.java.doc.source" download-size="6" install-size="10"
+           version="0.11.2.201401201005"/>
+</feature>

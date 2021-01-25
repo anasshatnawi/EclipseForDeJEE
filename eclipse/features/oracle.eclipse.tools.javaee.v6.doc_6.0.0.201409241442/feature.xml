@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="oracle.eclipse.tools.javaee.v6.doc" image="oepe-40.png" label="%FeatureName" plugin="oracle.eclipse.tools.javaee.v6.doc" provider-name="%ProviderName" version="6.0.0.201409241442">
+
+   <description>
+      %FeatureDescription
+   </description>
+
+   <copyright>
+      %Copyright
+   </copyright>
+
+   <license url="license.html">
+      %License
+   </license>
+
+   <plugin download-size="0" id="oracle.eclipse.tools.javaee.v6.doc" install-size="0" unpack="true" version="6.0.0.201409241442"/>
+
+</feature>

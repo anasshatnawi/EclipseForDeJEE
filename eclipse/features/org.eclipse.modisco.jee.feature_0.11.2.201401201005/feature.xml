@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2010 Mia-Software.
+    All rights reserved. This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License v1.0
+    which accompanies this distribution, and is available at
+    http://www.eclipse.org/legal/epl-v10.html
+   
+    Contributors:
+       Fabien Giquel (Mia-Software) - initial API and implementation
+ -->
+<feature
+      id="org.eclipse.modisco.jee.feature"
+      label="MoDisco JEE feature (Incubation)"
+      version="0.11.2.201401201005"
+      provider-name="%providerName"
+      plugin="org.eclipse.modisco.jee">
+
+   <description url="http://www.eclipse.org/MoDisco/">
+      %description
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Copyright (c) 2010 Mia-Software.
+All rights reserved. This program and the accompanying materials
+are made available under the terms of the Eclipse Public License
+v1.0
+which accompanies this distribution, and is available at
+http://www.eclipse.org/legal/epl-v10.html
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.modisco.jee.ejbjar"
+         download-size="1893"
+         install-size="7061"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.ejbjar.discoverer"
+         download-size="19"
+         install-size="32"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.ejbjar.discoverer.ui"
+         download-size="11"
+         install-size="14"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee"
+         download-size="37"
+         install-size="69"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.webapp"
+         download-size="1807"
+         install-size="6384"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.webapp.discoverer"
+         download-size="19"
+         install-size="31"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.webapp.discoverer.ui"
+         download-size="11"
+         install-size="14"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.jsp"
+         download-size="51"
+         install-size="138"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.jsp.browser.customization"
+         download-size="19"
+         install-size="25"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.jsp.discoverer"
+         download-size="86"
+         install-size="209"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.jsp.discoverer.ui"
+         download-size="11"
+         install-size="14"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.jsp.generation"
+         download-size="14"
+         install-size="24"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.facet"
+         download-size="18"
+         install-size="88"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.queries"
+         download-size="118"
+         install-size="276"
+         version="0.11.2.201401201005"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.modisco.jee.doc"
+         download-size="612"
+         install-size="668"
+         version="0.11.2.201401201005"/>
+
+</feature>

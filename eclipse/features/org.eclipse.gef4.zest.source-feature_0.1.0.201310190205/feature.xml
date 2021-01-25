@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.gef4.zest.source-feature"
+      label="%featureName"
+      version="0.1.0.201310190205"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+   
+   <plugin
+         id="org.eclipse.gef4.zest.cloudio.source"
+         download-size="28"
+         install-size="90"
+         version="0.1.0.201310190205"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gef4.zest.core.source"
+         download-size="92"
+         install-size="308"
+         version="0.1.0.201310190205"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gef4.zest.dot.core.source"
+         download-size="108"
+         install-size="697"
+         version="0.1.0.201310190205"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gef4.zest.dot.export.source"
+         download-size="15"
+         install-size="36"
+         version="0.1.0.201310190205"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gef4.zest.dot.ui.source"
+         download-size="69"
+         install-size="546"
+         version="0.1.0.201310190205"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gef4.zest.jface.source"
+         download-size="37"
+         install-size="112"
+         version="0.1.0.201310190205"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.gef4.zest.layouts.source"
+         download-size="54"
+         install-size="177"
+         version="0.1.0.201310190205"
+         unpack="false"/>
+
+</feature>

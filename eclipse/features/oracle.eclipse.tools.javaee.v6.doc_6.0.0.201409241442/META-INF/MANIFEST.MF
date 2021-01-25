@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_51 (Oracle Corporation)
+
+Name: Java32.png
+SHA-256-Digest: koUi6LivPblqVVdkTe8BfGZfUPYig46p+7ikFyUakEw=
+
+Name: license.html
+SHA-256-Digest: 5JKfKsLCQodUiUZupTlLA9TsL13ExfAAzBT37PydklA=
+
+Name: feature.xml
+SHA-256-Digest: V287tfILGzWZWbMedQ7aJ1jSx7fqW/aYgJpEUUgIzLE=
+
+Name: feature.properties
+SHA-256-Digest: 98tNQo7bOQbSqSrtvZQOc8CoAKmxpuYNDsgUdALbnOk=
+
